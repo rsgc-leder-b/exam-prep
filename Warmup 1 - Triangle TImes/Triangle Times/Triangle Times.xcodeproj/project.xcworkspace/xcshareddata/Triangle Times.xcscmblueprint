@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0,
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82C68A67-8DA3-479B-8CDB-CC378D4973EA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : "",
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : "exam-prep\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Triangle Times",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warmup 1 - Triangle TImes\/Triangle Times\/Triangle Times.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/exam-prep.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4"
+    }
+  ]
+}
