@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0,
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B0EBFF84-1B7F-4EB4-9C7C-331F3B8EBDC9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : "",
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : "exam-prep\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vote Count",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warmup 2 - Vote Count\/Vote Count\/Vote Count.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/exam-prep.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4"
+    }
+  ]
+}

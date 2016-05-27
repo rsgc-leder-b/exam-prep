@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0,
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7E5A70C-3AB2-4A23-B9E4-AAED7CB4474A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : "",
+    "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4" : "exam-prep\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sounds Fishy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warmup 3 - Sounds Fishy\/Sounds Fishy\/Sounds Fishy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/exam-prep.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D38E1BD7FC11E105E1345D79ECA6A107565CE6A4"
+    }
+  ]
+}
